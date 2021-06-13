@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sushantbasak" /> </p> -->
-I am a 2nd Year Undergradute Student pursuing Information Technology from **Indian Institute of Information Technology Gwalior**. I'm 
+I am a 2nd Year Student pursuing Information Technology from **Indian Institute of Information Technology Gwalior**. I'm 
 passionate about Problem Solving and Web Developement. 
 
 - 🌱 I’m currently learning **GO, Rust, Algorithms**
@@ -27,5 +26,6 @@ passionate about Problem Solving and Web Developement.
 </p>
 
 ***
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sushantbasak" /> </p> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantbasak&show_icons=true&count_private=true&theme=tokyonight" alt="sushantbasak" />
