@@ -3,7 +3,7 @@ Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pu
 
 - 🌱 I’m currently learning **CI/CD, Algorithms**
 
-- 👯 I’m looking to collaborate on **Web Dev Projects**
+- :computer: I’m looking to collaborate on **Web Dev Projects**
 
 - 💬 Ask me about **Javascript, Node, Express, Data Structures**
 
