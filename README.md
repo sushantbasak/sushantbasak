@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
 Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pursuing <b>Bachelors of Technology</b> from <b>IIIT, Gwalior</b>.
 
-- 🌱 I’m currently learning **CI/CD, Algorithms**
+- 🌱 I’m currently learning **TypeScript**
 
 - :computer: I’m looking to collaborate on **Web Dev Projects**
 
