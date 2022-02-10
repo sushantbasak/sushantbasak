@@ -15,7 +15,7 @@ Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pu
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
 
 ***
-## 💻 My Profiles
+<!-- ## 💻 My Profiles
 <p align="left"> 
 <a href="https://www.hackerrank.com/sushantbasak73?hr_r=1" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="80" height="80"/> </a>
 <a href="https://www.codechef.com/users/kevin_007" target="_blank"> <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="60"/> </a>
@@ -24,13 +24,13 @@ Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pu
 <a href="https://www.hackerearth.com/@sushantbasak73" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackereath" width="60" height="60"/> </a>
 
 
-</p>
+</p> -->
 
-***
+<!-- ***
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sushantbasak" /> </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantbasak&show_icons=true&count_private=true&theme=tokyonight" alt="sushantbasak" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantbasak&show_icons=true&count_private=true&theme=tokyonight" alt="sushantbasak" /> -->
   
 ### :handshake: **Let's Connect At-**
   
