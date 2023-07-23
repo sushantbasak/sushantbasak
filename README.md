@@ -1,5 +1,7 @@
 <h1>Hello World!</h1>
-Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pursuing <b>Bachelors of Technology</b> from <b>IIIT, Gwalior</b>.
+I'm Sushant Basak, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Node.js and CI/CD. 
+
+👨‍🎓  [Here's my Resume](https://drive.google.com/file/d/1yPWwX-tvPdH7dTbY5_QZCa5Gj4_Is5rK/view).
 
 - 🌱 I’m currently learning **Loopback**
 
@@ -9,28 +11,17 @@ Myself Sushant Basak, a <b>Competitive Programmer</b>, <b> Web Developer </b> pu
 
 - 📫 Reach me at **sushantbasak73@gmail.com**
 
+## Work Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>  </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Gyizer](https://gyizer.com/) | Backend Developer | Jul, 2021 - Apr, 2022 |
+| [IEEE Student Branch](https://www.iiitm.ac.in/index.php/en/) | Backend Developer | Jul, 2020 - Sept, 2020 |
 
-***
-<!-- ## 💻 My Profiles
-<p align="left"> 
-<a href="https://www.hackerrank.com/sushantbasak73?hr_r=1" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="80" height="80"/> </a>
-<a href="https://www.codechef.com/users/kevin_007" target="_blank"> <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="60"/> </a>
-<a href="https://leetcode.com/kevin_007/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="60" height="60"/></a>
-<a href="https://codeforces.com/profile/kevin_007" target="_blank"> <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" alt="codeforces" width="60" height="60"/> </a>
-<a href="https://www.hackerearth.com/@sushantbasak73" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackereath" width="60" height="60"/> </a>
-
-
-</p> -->
-
-<!-- ***
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantbasak&label=Profile%20views&color=0e75b6&style=flat" alt="sushantbasak" /> </p>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantbasak&show_icons=true&count_private=true&theme=tokyonight" alt="sushantbasak" /> -->
+## My Projects
+- 🤖 [Tortana](https://tortana-2.onrender.com/), A Voice-Enabled AI Assistant for Seamless Conversations.
+- 🧹 [Clean-It-Up](https://github.com/sushantbasak/Clean-It-Up), A website for improving Cleanliness. 
+- 📨 [Email Classify GPT](https://github.com/sushantbasak/Email-Classify-GPT), An Email Classification integrated with Gmail and Chat GPT.
   
 ### :handshake: **Let's Connect At-**
   
