@@ -7,7 +7,7 @@ I'm Sushant Basak, a fourth-year student at IIIT Gwalior pursuing Integrated Mas
 
 - :computer: I’m looking to collaborate on **Web Dev Projects**
 
-- 💬 Ask me about **Javascript, Node, Express, Data Structures**
+- 💬 Ask me about **TypeScript, Node, Express, Docker, Data Structures**
 
 - 📫 Reach me at **sushantbasak73@gmail.com**
 
@@ -16,7 +16,7 @@ I'm Sushant Basak, a fourth-year student at IIIT Gwalior pursuing Integrated Mas
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Gyizer](https://gyizer.com/) | Backend Developer | Jul, 2021 - Apr, 2022 |
-| [IEEE Student Branch](https://www.iiitm.ac.in/index.php/en/) | Backend Developer | Jul, 2020 - Sept, 2020 |
+| [IEEE Student Branch](https://www.iiitm.ac.in/index.php/en/) | Web Developer | Jul, 2020 - Sept, 2020 |
 
 ## My Projects
 - 🤖 [Tortana](https://tortana-2.onrender.com/), A Voice-Enabled AI Assistant for Seamless Conversations.
