@@ -1,8 +1,6 @@
 <h1>Hello World!</h1>
 I'm Sushant Basak, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Node.js, PostgresSQL, MongoDB and CI/CD. 
 
-👨‍🎓  [Here's my Resume](https://drive.google.com/file/d/1yPWwX-tvPdH7dTbY5_QZCa5Gj4_Is5rK/view).
-
 - 🌱 I’m currently learning **Loopback**
 
 - :computer: I’m looking to collaborate on **Web Dev Projects**
