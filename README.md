@@ -1,25 +1,10 @@
-<h1>Hello World!</h1>
-I'm Sushant Basak, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Node.js, PostgresSQL, MongoDB and CI/CD. 
+<h1>Hello World! 👋</h1>
 
-- 🌱 I’m currently learning **Loopback**
+I'm **Sushant Basak**, a Software Engineer at **Sharechat**, building backend systems and real-time platforms. I graduated from **IIIT Gwalior** with an Integrated M.Tech in Information Technology. 
 
-- :computer: I’m looking to collaborate on **Web Dev Projects**
+<br/>
 
-- 📫 Reach me at **sushantbasak73@gmail.com**
-
-## Work Experience
-
-| 🏢 Company | 💼 Role | ⏰ Duration |
-| --- | --- | --- |
-| [Gyizer](https://gyizer.com/) | Backend Developer | Jul, 2021 - Apr, 2022 |
-| [IEEE Student Branch](https://www.iiitm.ac.in/index.php/en/) | Web Developer | Jul, 2020 - Sept, 2020 |
-
-## My Projects
-- 🤖 [Tortana](https://tortana-2.onrender.com/), A Voice-Enabled AI Assistant for Seamless Conversations.
-- 🧹 [Clean-It-Up](https://github.com/sushantbasak/Clean-It-Up), A website for improving Cleanliness. 
-- 📨 [Email Classify GPT](https://github.com/sushantbasak/Email-Classify-GPT), An Email Classification integrated with Gmail and Chat GPT.
-  
-### :handshake: **Let's Connect At-**
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Sushant%20Basak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-basak-29928b190/)](https://www.linkedin.com/in/sushant-basak-29928b190/)
-[![Gmail Badge](https://img.shields.io/badge/-sushantbasak73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushantbasak73@gmail.com)](mailto:sushantbasak73@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sushant%20Basak-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-basak/)
+[![Gmail Badge](https://img.shields.io/badge/-sushantbasak007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sushantbasak007@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-kevin__007-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/kevin_007/)
+[![GitHub Badge](https://img.shields.io/badge/-sushantbasak-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sushantbasak)
